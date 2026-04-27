@@ -8,7 +8,7 @@ export default function Hero() {
         <div className="absolute inset-0 bg-slate-900/80 z-10" />
         {/* Replace with your high-res law office image */}
         <img 
-          src="https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80" 
+          src="/law-firm.jpg" 
           alt="Law Office" 
           className="w-full h-full object-cover"
         />

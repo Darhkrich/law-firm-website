@@ -24,7 +24,7 @@ export default function Navbar() {
           <span className={`text-xl font-serif font-bold ${
             isScrolled ? 'text-slate-900' : 'text-white'
           }`}>
-            Vanguard & Sterling
+            OrganizationName
           </span>
         </Link>
 

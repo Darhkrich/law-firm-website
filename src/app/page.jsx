@@ -17,7 +17,7 @@ export default function Home() {
             We Don't Just Practice Law. <br/>We Define the Standard.
           </h2>
           <p className="text-slate-600 text-lg leading-relaxed">
-            For over two decades, Vanguard & Sterling has stood as a bulwark for clients facing their most significant legal challenges. We believe in aggressive representation tempered by strategic foresight. We do not look for the easy way out; we look for the winning way out.
+            For over two decades, We have stood as a bulwark for clients facing their most significant legal challenges. We believe in aggressive representation tempered by strategic foresight. We do not look for the easy way out; we look for the winning way out.
           </p>
           
         </div>
@@ -32,7 +32,7 @@ export default function Home() {
           <div className="space-y-6">
             <div className="flex items-center gap-2 text-white">
               <Scale className="h-6 w-6 text-amber-600" />
-              <span className="text-lg font-serif font-bold">Vanguard & Sterling</span>
+              <span className="text-lg font-serif font-bold">OrganizationName</span>
             </div>
             <p className="text-sm">
               Premier legal representation for those who demand excellence.
@@ -41,10 +41,10 @@ export default function Home() {
 
           <div>
             <h4 className="text-white font-bold mb-6 uppercase text-sm tracking-wider">Contact</h4>
-            <ul className="space-y-4 text-sm">
-              <li className="flex items-center gap-3"><MapPin size={16} className="text-amber-600"/> 100 Legal Ave, Suite 500, NY</li>
-              <li className="flex items-center gap-3"><Phone size={16} className="text-amber-600"/> (212) 555-0123</li>
-              <li className="flex items-center gap-3"><Mail size={16} className="text-amber-600"/> counsel@vanguardsterling.com</li>
+            <ul className="space-y-4 text-sm text-center">
+              <li className="flex items-center gap-3"><MapPin size={16} className="text-amber-600"/> Organization Location</li>
+              <li className="flex items-center gap-3"><Phone size={16} className="text-amber-600"/> (000) 555-0123</li>
+              <li className="flex items-center gap-3"><Mail size={16} className="text-amber-600"/> counsel@email.com</li>
             </ul>
           </div>
 
